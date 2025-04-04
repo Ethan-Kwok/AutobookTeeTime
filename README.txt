@@ -27,12 +27,14 @@ SETTING UP AND RUNNING THE TEE TIME BOOKING SCRIPT
   - In the Command Prompt or Terminal, CD into the folder containing the bookteetime.py script. For example, if you downloaded it to your Downloads folder, run:
   cd downloads
 
-  - Run the Python script below:
+  - In the Command Prompt or Terminal, run the Python script:
   python3 bookteetime.py
 
 5. ENTER THE START TIME WHEN PROMPTED
-  - Acceptable formats: "9:00 AM", "9:00 am", "9:00AM", "9:00am"
+  - The code will prompt you with instructions in the Command Prompt or Terminal.
+  - Acceptable time formats: "9:00 AM", "9:00 am", "9:00AM", "9:00am"
 
-6. KEEP CHROME OPEN
+6. KEEP CHROME OPEN AND WAIT!
   - Leave the Google Chrome tab open.
   - Keep the Chrome window enlarged to ensure automation runs smoothly.
+  - At 9:00 PM EST, the automation will run. Once complete, the code will return "ok done :D"
