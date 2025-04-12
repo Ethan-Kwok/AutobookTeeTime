@@ -18,7 +18,7 @@ Supported Platforms:
 - Mac: Download the .app file and run it.
 
 Installation:
-- Download the .exe (Windows) or .app (Mac) file:
+- Download the .exe (Windows) or .app (Mac) file in "Releases"
 
 Usage:
 1. Double-click the .exe file (Windows) or .app file (Mac) to start the application.
